@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <h1 align="center">Hi, I'm Federico</h1>
 <h3 align="center">Creative frontend developer always seeking innovative solutions and enhancing user experiences.</h3>
 
