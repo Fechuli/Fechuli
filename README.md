@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Vue, but Laravel is also tempting me**<br><br>
 - 💬 Ask me about **Next.js, react, three.js, react-three-fiber**<br><br>
-- 📫 How to reach me **federico@backdoor-studio.com**
+- 📫 How to reach me **federicofiaschi277@gmail.com**
 
 
 ## 🌐 Socials:
