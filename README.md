@@ -3,7 +3,7 @@
 <h3 align="center">Creative frontend developer always seeking innovative solutions and enhancing user experiences.</h3>
 
 - 🌱 I’m currently learning **Vue, but Laravel is also tempting me**<br><br>
-- 💬 Ask me about **Next.js, react, three.js, react-three-fiber**<br><br>
+- 💬 Ask me about **Next.js, React, Three.js, React-Three-Fiber**<br><br>
 - 📫 How to reach me **federicofiaschi277@gmail.com**
 
 
