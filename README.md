@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Federico</h1>
 <h3 align="center">Creative frontend developer always seeking innovative solutions and enhancing user experiences.</h3>
 
-- 🌱 I’m currently trying learning *Unity**<br><br>
+- 🌱 I’m currently trying learning **Unity**<br><br>
 - 💬 Ask me about **Next.js, React, Three.js, React-Three-Fiber**<br><br>
 - 📫 How to reach me **federicofiaschi277@gmail.com**
 
